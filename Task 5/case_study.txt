@@ -1,0 +1,17 @@
+Title: The "Reverse-Request" UPI Scam
+This case study looks at a common type of online payment fraud that targets college
+students and young professionals. The scam usually starts when a student lists
+something for sale on an online marketplace or receives a random call about a "refund"
+or "scholarship".
+The crime follows a specific step-by-step process. First, the attacker contacts the
+victim, claiming they want to send money via a UPI app like GPay or PhonePe. Instead of
+sending money, the attacker sends a "Request Money" link. They often pressure the
+victim to act quickly, saying things like, "I've sent the payment, just click 'Approve' and
+enter your PIN to receive it." This is where the trap is set—many people forget that you
+never need to enter your UPI PIN to receive money, only to send it.
+Once the victim enters their PIN, the money is instantly deducted from their bank
+account and moved through multiple "mule" accounts to make it hard to track. The
+consequences are often severe; for a student, losing a few thousand rupees can mean
+losing their entire monthly allowance or semester fees. Even though individual losses
+might seem small, the scale of these scams is massive, often funding larger criminal
+networks
